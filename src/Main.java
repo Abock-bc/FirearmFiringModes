@@ -13,5 +13,6 @@ public class Main {
         rifle.setFiringMode(new FullAutoMode());
         rifle.pullTrigger();
         rifle.pullTrigger();
+
     }
 }
