@@ -9,6 +9,6 @@ public class FullAutoMode implements FiringMode {
 
     @Override
     public String name() {
-        return "FULL-AUTO";
+        return "full-auto";
     }
 }
